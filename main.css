@@ -45,7 +45,7 @@ a {
 }
 
 .focus {
-        background-color: rgba(255,255,255,.100);
+        background-color: rgba(255,255,255,1);
         font-weight: 600;
 }
 
@@ -58,6 +58,26 @@ a:visited {
 }
 
 a:hover {
-        background-color: rgba(255,255,255,.100);
+        background-color: rgba(255,255,255,1);
         font-weight: 600;
+}
+
+div { 
+     margin: 0px;
+     padding: 0px;
+}
+
+h1 {    
+        margin: 0px;
+        padding: 0px;
+        padding-left: 1vw;
+        padding-right: 27vw;
+        font-size: 10vw;
+}
+
+img {
+        max-width: 75%;
+        max-height: 75%;
+        margin-left: 1vw;
+        padding-top: 1vh;
 }
