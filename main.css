@@ -81,3 +81,10 @@ img {
         margin-left: 1vw;
         padding-top: 1vh;
 }
+
+p {
+        padding-left: 1vw;
+        padding-right: 27vw;
+        margin: 0px;
+        font-size: 3vw;
+}
