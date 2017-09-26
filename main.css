@@ -75,6 +75,22 @@ h1 {
         font-size: 10vw;
 }
 
+h2 {    
+        margin: 0px;
+        padding: 0px;
+        padding-left: 1vw;
+        padding-right: 27vw;
+        font-size: 4vw;
+}
+
+h3 {    
+        margin: 0px;
+        padding: 0px;
+        padding-left: 1vw;
+        padding-right: 27vw;
+        font-size: 3vw;
+}
+
 img {
         max-width: 75%;
         max-height: 75%;
@@ -87,4 +103,10 @@ p {
         padding-right: 27vw;
         margin: 0px;
         font-size: 3vw;
+}
+
+ul {
+        font-size: 2vw;
+        padding-left: 5vw;
+        padding-right: 27vw;
 }
