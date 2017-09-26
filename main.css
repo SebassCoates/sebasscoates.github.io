@@ -3,3 +3,43 @@ html {
         background-attachment: fixed;
         background-size: 100%;
 }
+
+header {
+        display: inline-block;
+}
+
+#leftborder {
+        background-color: rgba(255,255,255,.5);
+        height: 100%;
+        text-align: center;
+        margin: 10px;
+        border-radius: 1vw;
+}
+
+a {
+        display: inline-block;
+        font-size: 40px;
+        padding: 1vh;
+        margin-left: 1vw;
+        margin-right: 1vw;
+        margin-top: 3vh;
+        border-radius: 1vh;
+}
+
+.focus {
+        background-color: rgba(255,255,255,.75);
+        font-weight: 600;
+}
+
+a:link {
+        text-decoration: none; color:rgb(0,0,0); 
+}
+
+a:visited {
+        text-decoration: none; color:rgb(0,0,0); 
+}
+
+a:hover {
+        background-color: rgba(255,255,255,.75);
+        font-weight: 600;
+}
